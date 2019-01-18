@@ -20,7 +20,7 @@ import (
 	"github.com/apoydence/onpar"
 	"github.com/apoydence/onpar/expect"
 	"github.com/apoydence/onpar/matchers"
-	"github.com/go-gorp/gorp"
+	"github.com/kalginnick/gorp"
 )
 
 func TestPostgresDialect(t *testing.T) {
